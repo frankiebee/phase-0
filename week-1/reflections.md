@@ -14,4 +14,44 @@ Self testing is important. Ideas and notes and vocab. words from the previous da
 
 1.2 The Comand Line
 
+Bash is the unix shell and command language interpreter. The shell is the command line user interface it allows although it is not apart of the system kernel it use kernel to execute programs. Bash was created for the GNU operating system. Which is a "a large dark antelope with a long head, a beard and mane, and a sloping back." Hah hah hah... :\ okay i got that out of the way. GNU is operating system that is capable of creating a linux-like operating system but is composed of free software.
+
+Moving on...
+
+Yes i was ables to successfully use all the commands. Although i still need to work on understanding sudo as well as just getting more practice with echo, xargs, push and pop as well as grep.
+
+In my option the most important commands to know are:
+
+cd
+ls
+mkdir
+rm
+rmdir
+touch
+at the moment but i'm fairly sure that knowing all of the ones we just learned are important.
+
+
+
+Print working directory -pwd
+
+List files and directories -ls
+
+Move file or directory-mv
+
+Change working directories -cd
+
+In tandem with cd brings you to the previous directory-../
+
+Create a new emty file or cange the time stamp-touch
+
+Make new directory -mkdir
+
+(les is more?) Page through a file -less
+
+Remove directory -rmdir
+
+Remove file-rm
+
+The power shell eqivalent to man (documtaion page on command or module -man)-help
+
 1.3 Forking and Cloning
