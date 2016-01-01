@@ -54,18 +54,18 @@ Remove file-rm
 
 The power shell eqivalent to man (documtaion page on command or module -man)-help
 
-1.4 Forking and Cloning
+#1.4 Forking and Cloning
 
-#Setting up a repository, forking and cloning repositories:
+##Setting up a repository, forking and cloning repositories:
 
-##CREATING A REPOSITORY:
+###CREATING A REPOSITORY:
 
 After logging in you will see a '+' symbol at the top right hand corner next to your profile icon. Go ahead and click on the '+' and click 'New repository'.
 Type in your desired repository name.
 And make sure to put MIT License at the bottom where it says license.
 Now that you have created your repository lets clone it down to your computer so that you can work and add files to it.
 
-##CLONING and FORKING A REPOSITORY:
+###CLONING and FORKING A REPOSITORY:
 
 If you are forking someone else repository you would click into the repository and their would be a button that says 'fork'
 Click that and find yourself and click you.
