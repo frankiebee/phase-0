@@ -54,4 +54,24 @@ Remove file-rm
 
 The power shell eqivalent to man (documtaion page on command or module -man)-help
 
-1.3 Forking and Cloning
+1.4 Forking and Cloning
+
+Setting up a repository, forking and cloning repositories:
+
+CREATING A REPOSITORY:
+
+After logging in you will see a '+' symbol at the top right hand corner next to your profile icon. Go ahead and click on the '+' and click 'New repository'.
+Type in your desired repository name.
+And make sure to put MIT License at the bottom where it says license.
+Now that you have created your repository lets clone it down to your computer so that you can work and add files to it.
+
+CLONING and FORKING A REPOSITORY:
+
+If you are forking someone else repository you would click into the repository and their would be a button that says 'fork'
+Click that and find yourself and click you.
+Got to the bar where it says 'HHTPS' and copy that link. Now if this is your repository you don't need to do that. You would just do this step.
+Go to your terminal and type git clone https://gitthub.com/paste-your-link/here and paste your link in the terminal.
+It may ask for username and password but now you have the repository locally on your computer!
+
+
+I would fork a repository rather then make a new one to be able to work with people on my team on the project. If you create a new repository you wont have your team to collaborate with.
