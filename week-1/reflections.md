@@ -54,6 +54,13 @@ Remove file-rm
 
 The power shell eqivalent to man (documtaion page on command or module -man)-help
 
+#1.3 Introduction to Version Control
+Git is a soft ware and GitHub is hosting and collaboration. GitHub can also handle merging and version control. Git can also do this but GitHub allows you to do this with out having the person with the code online as long as it is in the Hub.
+
+Version control keeps track of all your progress and also allows multiple people to work on the same script with out stepping on each others toes. If you break something version control can take you bake and time travel in your script to when it was all okay. When you work with people you can use version control to help be like "This one is mine i'm gonna work on it. And that, thats yours you work on it" and when your both done you can tell git while you sit in front of your lap top. "Git i command you now make these two a one!" and gits all like 'i is not a git command see some help'. 'git merge [bookmark]/[branch]' is the right one all joking aside. GitHub now knows who you are and when your working with a team your commits pulls merges etc. they are all tracked. Don't understand a new piece of code or who did it? GitHub does! Need some help with a thing? Not only do you have the GitHub community where someone has probably worked on the same problem as you but you also have your team to chat with on GitHub and members of the community who like deep shades of green on their contributions map.
+
+A commit is a snapshot of your progress and is stored in version history. This is the time travel element and commits should always have a note/comment made in the present tense as per the preference of most programers. This is the sort of safety net where if you screw up and stuff stops working you can go back to an earlier commit and try again.
+
 #1.4 Forking and Cloning
 
 ##Setting up a repository, forking and cloning repositories:
