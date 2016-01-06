@@ -28,4 +28,4 @@ User experince... Do you enjoy the site or does it just frustrate? Does it feel 
 Which parts of the challenge did you find tedious?
 Reading about 6 phases of web desighn.
 
-[Site map] (https://raw.githubusercontent.com/frankiebee/phase-0/master/week-2/imgs/site-map.png)
+![Site map] (https://raw.githubusercontent.com/frankiebee/phase-0/master/week-2/imgs/site-map.png)
