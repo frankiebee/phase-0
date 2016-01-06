@@ -15,7 +15,7 @@ ME! Its to atract people who want to
   d. All of the above
 
 This will be achived through blog post project references et cetera. I want to gain the intrest of people who care about quality reads. Content should be interesting and exciting to read and not feel like filler blog entrys.
-
+###Desighn Reflection
 
 
 #####What is the primary "action" the user should take when coming to your site? Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
