@@ -17,4 +17,4 @@ Yes i did its kind of fun and gets the creative brain juices goin'.
 I revised it yes and will probably revise it some more down the line.
 
 #####Which parts of the challenge did you enjoy and which parts did you find tedious?
-The cration of it was great but at some point the OCD kicked in and all boxes were my enemy and i wanted everything straight and alighned.
+The creation of it was great but at some point the OCD kicked in and all boxes were my enemy and i wanted everything straight and alighned.
