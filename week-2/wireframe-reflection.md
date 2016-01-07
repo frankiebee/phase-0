@@ -1,0 +1,2 @@
+![wireframe-index](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-2/imgs/wireframe-index.png)
+![wireframe-blog-index](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-2/imgs/wireframe-blog-index.png)
