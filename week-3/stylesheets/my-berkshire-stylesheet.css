@@ -39,11 +39,33 @@ h4{
 table {
   padding-left: 100px;
 }
+.descrption {
+  font-size: 10px;
+}
 
 .line-separator{
   border-bottom:1px solid #313030;
 }
+.pad{
+  padding-bottom: 0px;
 
+}
 footer{
   text-align: center;
 }
+
+/*
+--What is important to know when linking an external file (like a stylesheet) to an HTML file?
+../ Remember if you are in a different directory that you have to get out and then go down into the other directory's before accessing the file.
+
+--What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+So hard to not continue after paring to work on it but i must move on. As far as getting it aligned not so hard. I've worked with graphics so i have an idea on how to get things aligned on the screen.
+--What CSS did you use to modify the element style (like size, color, etc.)
+so as you can see above: Padding, text-align, font-size, color;
+
+--Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+Yes we used both classes and id's. We did this so that we could save time rather the just being listing off the position of the specific element we wanted to change.
+
+--When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+Are site of course followed best practices. Theirs had the css in bedded in the html.
+*/
