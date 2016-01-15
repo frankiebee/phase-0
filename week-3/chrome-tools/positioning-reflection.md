@@ -1,4 +1,4 @@
-![1][imgs/1*]
+![1 Change colors][https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/1-change_the_colors.png]
 -How can you use Chrome's DevTools inspector to help you format or position elements?
 
 -How can you resize elements on the DOM using CSS?
