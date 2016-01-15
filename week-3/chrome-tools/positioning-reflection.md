@@ -1,30 +1,30 @@
-*Chrome tools reflection and screen shots
+#Chrome tools reflection and screen shots
 
-*****1 Change the colors
+#####1 Change the colors
 ![1 Change colors](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/1-change_the_colors.png)
 
-*****2 Column
+#####2 Column
 ![column](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/2-column.png )
 
-*****3 Row
+#####3 Row
 ![row](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/3-row.png)
 
-*****4 Make Equal distant
+#####4 Make Equal distant
 ![make equal](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/4-Make-Equidistant.png)
 
-*****5 Squares
+#####5 Squares
 ![squares](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/5-squares.png)
 
-*****6 Footer
+#####6 Footer
 ![footer](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/ 6-footer.png)
 
-*****7 Header
+#####7 Header
 ![header](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/7-header.png)
 
-*****8 Sidebar
+#####8 Sidebar
 ![sidebar](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/8-sidebar.png)
 
-*****9 Get Creative
+#####9 Get Creative
 ![creative](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/9-get_creative.png)
 
 **How can you use Chrome's DevTools inspector to help you format or position elements?**
