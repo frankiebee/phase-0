@@ -1,4 +1,5 @@
 *Chrome tools reflection and screen shots
+
 *****1 Change the colors
 ![1 Change colors](https://raw.githubusercontent.com/frankiebee/phase-0/master/week-3/chrome-tools/imgs/1-change_the_colors.png)
 
