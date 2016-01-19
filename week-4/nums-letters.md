@@ -8,7 +8,10 @@ b = 366 * 24 #hours in a leap year
 
 puts "There are #{a} hours in a year, #{b} in a leap year. A decade with no leap years has #{a * 60**2 * 10} seconds, but no decade has no leap years so... A decade with 1 leap year has #{(a * 60**2 * 9)+(b * 60**2)} seconds. A decade with 2 leap years has #{(a * 60**2 * 8)+(b * 60**2 *2)} seconds and a decade with 3 leap years has #{(a * 60**2 * 7)+(b * 60**2 * 3)} seconds. "
 ```
-
+#####Exercises: 
+[Defining Varaiables](https://github.com/frankiebee/phase-0/blob/master/week-4/defining-variables.rb
+[Simple String](https://github.com/frankiebee/phase-0/blob/master/week-4/simple-string.rb
+[Basic Math](https://github.com/frankiebee/phase-0/blob/master/week-4/basic-math.rb
 **What does puts do?**
 
 Prints to the console with a new line.
