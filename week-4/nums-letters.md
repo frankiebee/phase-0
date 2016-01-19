@@ -40,7 +40,7 @@ Symbols:
 
 More symbols:
 
-*```**``` this is the symbol for power so if you did 2*2*2*2 you could instead write it 2**4
+*``` ** ``` this is the symbol for power so if you did 2*2*2*2 you could instead write it 2**4
 
 *```%```  this is a modulo this calculates remainder so x % y would give us the remainder of x after evenly dividing x with y.
 
