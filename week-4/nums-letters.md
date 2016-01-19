@@ -29,6 +29,7 @@ Integers are whole numbers and floats are numbers with floating point decimals. 
 **How does Ruby handle addition, subtraction, multiplication, and division of numbers?
 
 Symbols:
+
 *```+``` this is for addition
 
 *```-``` this is for subtraction
