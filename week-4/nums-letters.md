@@ -34,7 +34,7 @@ Symbols:
 
 *```-``` this is for subtraction
 
-*```*``` this is for multiplication
+*``` * ``` this is for multiplication
 
 *```/``` this is for division
 
