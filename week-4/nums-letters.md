@@ -17,29 +17,42 @@ Prints to the console with a new line.
 
 Integers are whole numbers and floats are numbers with floating point decimals. So 5 is an integer and 5.0 is a float.
 
-What is the difference between float and integer division? How would you explain the difference to someone who doesn't know anything about programming?
+**What is the difference between float and integer division? How would you explain the difference to someone who doesn't know anything about programming?
 
 
-How does Ruby handle addition, subtraction, multiplication, and division of numbers?
+**How does Ruby handle addition, subtraction, multiplication, and division of numbers?
 
-```+```
-```-```
-```*```
-```/```
-```%```
+Symbols:
+*```+``` this is for addition
+*```-``` this is for subtraction
+*```*``` this is for multiplication
+*```/``` this is for division
+More symbols:
+*```**``` this is the symbol for power so if you did 2*2*2*2 you could instead write it 2**4
+*```%```  this is a modulo this calculates remainder so x % y would give us the remainder of x after evenly dividing x with y.
 
-What is the difference between integers and floats?
+**What is the difference between integers and floats?
 
-ntegers are whole numbers and floats are numbers with floating point decimals. So 5 is an integer and 5.0 is a float.
+Integers are whole numbers and floats are numbers with floating point decimals. So 5 is an integer and 5.0 is a float.
 
-What is the difference between integer and float division?
+**What is the difference between integer and float division?
+Division of integers will round down if the the quotient is not wholly divisible. Where a float can be properly divided. For example:
+```Ruby
+~ 5/2
+=> 2
+~ 5.0/2.0
+=>2.5
+```
 
 
-What are strings? Why and when would you use them?
+**What are strings? Why and when would you use them?
 
-Stings are a collection of characters in between quotation marks. You would use them to print to the terminal.
+Stings are a collection of characters in between quotation marks. You would use them to print to the terminal or display.
 
-What are local variables? Why and when would you use them?
+**What are local variables? Why and when would you use them?
 
+Local variables are names for data or set of data stored on your computer so that you can access the data later. The process of attaching data to a variable name is called assignment and the variable name has to start with a lower case letter and should only be made of letters underscores and numbers.
 
-How was this challenge? Did you get a good review of some of the basics?
+**How was this challenge? Did you get a good review of some of the basics?
+
+Yes it was a review... It was very easy though.
