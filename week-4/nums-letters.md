@@ -10,7 +10,9 @@ puts "There are #{a} hours in a year, #{b} in a leap year. A decade with no leap
 ```
 #####Exercises: 
 *[Defining Varaiables](https://github.com/frankiebee/phase-0/blob/master/week-4/defining-variables.rb)
+
 *[Simple String](https://github.com/frankiebee/phase-0/blob/master/week-4/simple-string.rb)
+
 *[Basic Math](https://github.com/frankiebee/phase-0/blob/master/week-4/basic-math.rb)
 
 **What does puts do?**
