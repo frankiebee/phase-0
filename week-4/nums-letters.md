@@ -9,11 +9,11 @@ b = 366 * 24 #hours in a leap year
 puts "There are #{a} hours in a year, #{b} in a leap year. A decade with no leap years has #{a * 60**2 * 10} seconds, but no decade has no leap years so... A decade with 1 leap year has #{(a * 60**2 * 9)+(b * 60**2)} seconds. A decade with 2 leap years has #{(a * 60**2 * 8)+(b * 60**2 *2)} seconds and a decade with 3 leap years has #{(a * 60**2 * 7)+(b * 60**2 * 3)} seconds. "
 ```
 #####Exercises:
-*[Defining Varaiables](https://github.com/frankiebee/phase-0/blob/master/week-4/defining-variables.rb)
+* [Defining Varaiables](https://github.com/frankiebee/phase-0/blob/master/week-4/defining-variables.rb)
 
-*[Simple String](https://github.com/frankiebee/phase-0/blob/master/week-4/simple-string.rb)
+* [Simple String](https://github.com/frankiebee/phase-0/blob/master/week-4/simple-string.rb)
 
-*[Basic Math](https://github.com/frankiebee/phase-0/blob/master/week-4/basic-math.rb)
+* [Basic Math](https://github.com/frankiebee/phase-0/blob/master/week-4/basic-math.rb)
 
 **What does puts do?**
 
@@ -41,11 +41,11 @@ More symbols:
 
 * ```%```  this is a modulo this calculates remainder so x % y would give us the remainder of x after evenly dividing x with y.
 
-** What is the difference between integers and floats?**
+**What is the difference between integers and floats?**
 
 Integers are whole numbers and floats are numbers with floating point decimals. So 5 is an integer and 5.0 is a float.
 
-** What is the difference between integer and float division?**
+**What is the difference between integer and float division?**
 
 Division of integers will round down if the the quotient is not wholly divisible. Where a float can be properly divided. For example:
 ```Ruby
