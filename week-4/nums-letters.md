@@ -44,11 +44,11 @@ More symbols:
 
 * ```%```  this is a modulo this calculates remainder so x % y would give us the remainder of x after evenly dividing x with y.
 
-**What is the difference between integers and floats?
+** What is the difference between integers and floats?
 
 Integers are whole numbers and floats are numbers with floating point decimals. So 5 is an integer and 5.0 is a float.
 
-**What is the difference between integer and float division?
+** What is the difference between integer and float division?
 
 Division of integers will round down if the the quotient is not wholly divisible. Where a float can be properly divided. For example:
 ```Ruby
