@@ -30,19 +30,19 @@ Integers are whole numbers and floats are numbers with floating point decimals. 
 
 Symbols:
 
-*```+``` this is for addition
+* ```+``` this is for addition
 
-*```-``` this is for subtraction
+* ```-``` this is for subtraction
 
-*``` * ``` this is for multiplication
+* ``` * ``` this is for multiplication
 
-*```/``` this is for division
+* ```/``` this is for division
 
 More symbols:
 
 * ``` ** ``` this is the symbol for power so if you did 2*2*2*2 you could instead write it 2**4
 
-*```%```  this is a modulo this calculates remainder so x % y would give us the remainder of x after evenly dividing x with y.
+* ```%```  this is a modulo this calculates remainder so x % y would give us the remainder of x after evenly dividing x with y.
 
 **What is the difference between integers and floats?
 
