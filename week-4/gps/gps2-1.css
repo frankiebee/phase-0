@@ -1,0 +1,20 @@
+header{
+  background-color: green;
+  border-bottom: 5px solid #99FF66;
+}
+.column-1{
+  float: left;
+  width:50%;
+}
+
+.column-2{
+  float: right;
+  width: 50%;
+}
+
+footer {
+  border-top: 5px solid #FFCC00;
+  background-color: #99FF66;
+  text-align: center;
+  clear: both;
+}
