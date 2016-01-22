@@ -172,12 +172,12 @@ require_relative "cartmans_essay.md"
 # Write your reflection below as a comment.
 
 Which error was the most difficult to read?
-
+n/a
 How did you figure out what the issue with the error was?
-
+i read the error message
 Were you able to determine why each error message happened based on the code?
-
+yes
 When you encounter errors in your future code, what process will you follow to help you debug?
-
+read the error messages got through the code.
 
 =end
