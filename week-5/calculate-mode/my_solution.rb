@@ -1,6 +1,6 @@
 # Calculate the mode Pairing Challenge
 
-# I worked on this challenge [by myself, with: ]
+# I worked on this challenge [ with: Mitch Kroska]
 
 # I spent [] hours on this challenge.
 
@@ -19,6 +19,13 @@
 
 # 1. Initial Solution
 
+def mode(arr)
+ counter = Hash.new(0)
+ arr.each {|x| counter[x] += 1}
+ puts counter
+ max_value = counter.max_by { |k, v | v}[1]
+ counter.reject! { |k, v| v != max_value}
+end
 
 
 
