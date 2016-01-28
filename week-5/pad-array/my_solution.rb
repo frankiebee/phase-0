@@ -1,6 +1,6 @@
 # Pad an Array
 
-# I worked on this challenge [by myself, with: ]
+# I worked on this challenge [with: Mike ]
 
 # I spent [] hours on this challenge.
 
@@ -42,14 +42,17 @@ end
 # 4. Reflection
 =begin
 Were you successful in breaking the problem down into small steps?
+Kind we more worked through the problem. Thats like breaking it up in to steps. We knew what the goal was and so we just worked through each step of achieving the solution.
 
 Once you had written your pseudocode, were you able to easily translate it into code? What difficulties and successes did you have?
+I know its a bad habit we more discussed pseudo code rather then write it.
 
 Was your initial solution successful at passing the tests? If so, why do you think that is? If not, what were the errors you encountered and what did you do to resolve them?
-
-When you refactored, did you find any existing methods in Ruby to clean up your code?
+Yes. Because we thought about it.
 
 How readable is your solution? Did you and your pair choose descriptive variable names?
+Its not the best readability. We could have chosen more descriptive names.
 
 What is the difference between destructive and non-destructive methods in your own words?
+Destructive changes the data its given. Where non-destructive returns a new set with out changing what it was given to work with.
 =end

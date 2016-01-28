@@ -35,3 +35,16 @@ end
 
 
 # 4. Reflection
+=begin
+Which data structure did you and your pair decide to implement and why?
+Hashes because it could be used as a good counter for either strings or integers
+
+Were you more successful breaking this problem down into implementable pseudocode than the last with a pair?
+Yes.
+
+What issues/successes did you run into when translating your pseudocode to code?
+Understanding my pair.
+
+What methods did you use to iterate through the content? Did you find any good ones when you were refactoring? Were they difficult to implement?
+max_by is a new one for me.
+=end

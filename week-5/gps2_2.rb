@@ -59,3 +59,29 @@ p add_item(grocery, "carrots")
 p remove_item(grocery, "oranges")
 p update_qty(grocery,"apples",5)
 p print_list(grocery)
+
+
+=begin
+What did you learn about pseudocode from working on this challenge?
+It can be a useful blueprint if you forget what your goals are.
+
+What are the tradeoffs of using Arrays and Hashes for this challenge?
+The whole key value pair makes it tough to pull information out at random with out knowing keys.
+And using arrays are kind of blind when it comes to grouping data.
+As far as for this exercise. The concept of trade off didn't really hit me. It took a minute to remember how to use a hash but once i got into the groove it was more of a this is how this works kind of thing. Although they are both collections thats the only thing they really have in common in my mind.
+DIFFERENCE:
+ARRAY: Index
+HASH: Key and value
+Although it may only be one thing thats a big difference that changes how you add data how you access it in a given situation and even how you iterate over it. Thats enough for me not to compare the 2. Even though i know they work hand in hand.
+
+What does a method return?
+Methods return values.
+
+What kind of things can you pass into methods as arguments?
+objects and values.
+How can you pass information between methods?
+assigning the output to a variable and then passing the variable to the next method.
+
+What concepts were solidified in this challenge, and what concepts are still confusing?
+I still need practice with hashes that was defiantly proven in this exercise.
+=end
