@@ -46,7 +46,7 @@ def print_prety_hash(hlist, cohort ="Sea Lions 2016")
 #{top}
 #{pp_list.center(50,"-")}
 """
-  hlist.each { |k,v| print_prety += ("\n"+k.upcase + v.to_s+"\n")}
+  hlist.each { |k,v| print_prety += ("\n"+k.upcase + v.to_s+"\n") }
   print_prety
 end
 
