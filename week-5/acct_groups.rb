@@ -46,7 +46,7 @@ def print_prety_hash(hlist, cohort ="Sea Lions 2016")
 #{top}
 #{pp_list.center(50,"-")}
 """
-  hlist.each { |k,v| print_prety += ("\n"+k.upcase + v.to_s+"\n") }
+  hlist.each { |k,v| print_prety += ("\n"+"".center(50,"-")+"\n" + k.upcase + "\n"  +v.to_s+"\n") }
   print_prety
 end
 
@@ -57,3 +57,19 @@ test4 = group_gen_hash(cohort)
 
 puts print_prety_hash(test4)
 
+
+
+=begin
+*** Reflection***
+Do you feel you are improving in your ability to write pseudocode and break the problem down?
+Yes i do feel as if i have gotten better at writing pseudo code.
+
+Was your approach for automating this task a good solution? What could have made it even better?
+I'm not sure how to answer this question what exactly are you referencing in this question?
+
+What data structure did you decide to store the accountability groups in and why?
+Both a hash and an array because both would have different uses.
+
+What did you learn in the process of refactoring your initial solution? Did you learn any new Ruby methods?
+I did not re-factor this solution as i wish to move on now. I already have spent a lot of time making the print_prety and needed to time box my self on this one.
+=end
