@@ -2,7 +2,7 @@
 
 
 # I worked on this challenge [by myself ].
-# I spent [#] hours on this challenge.
+# I spent [0.5] hours on this challenge.
 
 # Pseudocode
 
@@ -31,7 +31,6 @@ class Die
 end
 
 
-test = Die.new([])
 # Refactored Solution
 =begin
 class Die
@@ -48,13 +47,17 @@ class Die
 end
 
 # Reflection
-What were the main differences between this die class and the last one you created in terms of implementation? Did you need to change much logic to get this to work?
+What were the main differences between this die class and the last one you created in terms of implementation?
+The main difference is that in this die class the kind of side and number of sides are establish when declaring an instance of the class.
 
 What does this exercise teach you about making code that is easily changeable or modifiable?
+That you can do almost anything if you want to.
 
 What new methods did you learn when working on this challenge, if any?
+I didn't learn anything new this challenge
 
-What concepts about classes were you able to sol
+What concepts about classes were you able to solidify in this challenge?
+How to use attr_reader.
 
 
 =end
