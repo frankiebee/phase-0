@@ -1,7 +1,7 @@
 # Class Warfare, Validate a Credit Card Number
 
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge [ with: Dan ].
 # I spent [#] hours on this challenge.
 
 # Pseudocode
@@ -69,4 +69,17 @@ class CreditCard
      check % 10 == 0 # return a true or false if check is divisible by 10
   end
 end
+
+=begin
 # Reflection
+
+#What was the most difficult part of this challenge for you and your pair?
+This was a easy one for us i think. We just worked through the problem and had a good flow.
+
+#What new methods did you find to help you when you refactored?
+flatten was a new method for me.
+
+#What concepts or learnings were you able to solidify in this challenge?
+#step() was good for me to use again. Even when my pair tried to refractor he couldn't fin a better solution for that.
+
+=end

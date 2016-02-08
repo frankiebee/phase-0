@@ -72,4 +72,10 @@ startup_names = ["bit", ["find", "fast", ["optimize", "scope"]]]
 
 
 
+=begin
+# What are some general rules you can apply to nested arrays?
+I'm sorry to who ever is reading this. I'm not sure what to answer her with.
+# What are some ways you can iterate over nested arrays?
 
+# Did you find any good new methods to implement or did you re-use one you were already familiar with? What was it and why did you decide that was a good option?
+=end

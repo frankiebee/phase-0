@@ -77,6 +77,22 @@ while true
   puts new_game.display_pretty
   sleep 0.1
 end
+=begin
 #Reflection
 
+# How difficult was pseudo coding this challenge? What do you think of your pseudo coding style?
+
+# What are the benefits of using a class for this challenge?
+
+# How can you access coordinates in a nested array?
+
+# What methods did you use to access and modify the array?
+
+# Give an example of a new method you learned while reviewing the Ruby docs. Based on what you see in the docs, what purpose does it serve, and how is it called?
+
+# How did you determine what should be an instance variable versus a local variable?
+
+# What do you feel is most improved in your refactored solution?
+
+=end
 

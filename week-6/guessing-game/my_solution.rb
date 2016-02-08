@@ -55,12 +55,17 @@ end
 
 
 
-
+=begin
 # Reflection
 # How do instance variables and methods represent the characteristics and behaviors (actions) of a real-world object?
+okay lets say we have an object and its a ball. A method for ball could be bounce, you could also have a method for ball called roll. The class is like the ball the instance is the ball you have the bounce is the method/way you use play and manipulate the ball.
 
 # When should you use instance variables? What do they do for you?
+Lets go back to the ball now... How big is this ball what color is the ball who does the ball belong to is it a soccer ball or a foot ball or a basket ball. All these things can be stored in the instance variables.
 
 # Explain how to use flow control. Did you have any trouble using it in this challenge? If so, what did you struggle with?
+What? did i have trouble with the if statements. No did not have trouble
 
 # Why do you think this code requires you to return symbols? What are the benefits of using symbols?
+To save time and memory.
+=end
