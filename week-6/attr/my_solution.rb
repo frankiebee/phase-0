@@ -11,14 +11,20 @@
 # Steps:
 
 class NameData
+    attr_accessor :student
+    def initialize
+      @student = "Student"
+    end
+  end
 
-end
-
-
-class Greetings
-
-end
-
+  class Greetings
+    def initialize
+      @name_data = NameData.new
+    end
+    def hello
+      "Hello #{@name_data.student}! How wonderful to see you today."
+    end
+  end
 
 
 # Reflection
