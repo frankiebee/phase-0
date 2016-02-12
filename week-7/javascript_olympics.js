@@ -69,15 +69,18 @@ console.log(robbieSantos.name + " " + robbieSantos.sport + " " + robbieSantos.qu
 // Reflection
 
 // 1) What JavaScript knowledge did you solidify in this challenge?
-
 // String methods, constructor version of a function,
+
+// :{ thats a tricky question. Mostly because solidify is a weird way of putting it.
+// The concepts all make sense to me. I know what things do, its more a just need
+// to practice and work with it more till it be comes natural.
 
 // 2) What are constructor functions?
 
 //The are a form of a function and have the keyword this. They also have a dot".".
-// They are kind of like blueprint fuctions.
+// They are kind of like blueprint functions.
 // 3) How are constructors different from Ruby classes (in your research)?
-// they are differnt because they dont relly need to be iniatlized and the varibles kind of inalize them selves. And rather then being a a blueprint of an object. They are more like a blueprint for a fucntion.
+// they are different because they don't really need to be initialized and the variables kind of initialize them selves. And rather then being a a blueprint of an object. They are more like a blueprint for a function.
 
 
 
