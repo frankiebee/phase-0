@@ -11,30 +11,39 @@ var terah = {
   height: 66,
   weight: 130,
   hairColor: "brown",
-  eyeColor: "brown"
+  eyeColor: "brown",
 }
 // __________________________________________
 // Write your code below.
+var adam = new Object();
+  adam.name = "Adam";
+  adam.spouse = terah;
 
-
-
-
-
-
-
-
-
-
+  terah.spouse = adam;
+  terah.weight = 125;
+  delete terah['eyeColor'];
+  terah.children = new Object();
+  terah.children.carson = new Object();
+  terah.children.carson.name = "Carson";
+  terah.children.carter = new Object();
+  terah.children.carter.name = "Carter"
+  terah.children.colton = new Object()
+  terah.children.colton.name = "Colton"
+  adam.children = terah.children
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-//
-//
-//
-//
-//
-//
+//What tests did you have trouble passing? What did you do to make it pass? Why did that work?
+// The delete test was a pain. I couldn't figure out why it was not working at first. I was
+//doing delete  terah.eyeColor that didn't work so i tried eyeColor inside [] and that did it.
 
+// How difficult was it to add and delete properties outside of the object itself?
+// Not too difficult i found it kind of nifty and even a little fun.
+
+// What did you learn about manipulating objects in this challenge?
+// Them objects like silly putty you it comes in this nice little egg shaped package called
+//new object  and then you just smear it all over that newspaper data and just get the
+//coolest imprint
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
