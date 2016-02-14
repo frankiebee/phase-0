@@ -39,14 +39,14 @@ function mean(array) {
 //  ELSE array's length is even return both array[middle] and [middle - 1]
 // Add the finished solution here when you receive it.
 function median(array) {
-  var array = array.sort()
+  var array = array.sort();
   var middle = (array.length / 2);
   if (middle % 2 == 0) {
     var midd_diff = (array[middle] % array[middle-1]) / 2;
-    return array[middle-1] + midd_diff
+    return array[middle-1] + midd_diff;
   }
   else {
-    return array[middle- 0.5]
+    return array[middle- 0.5];
   }
 
 }
