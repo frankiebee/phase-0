@@ -82,18 +82,18 @@ LIKE "%Central%";
 
 
 ## Reflection
-*What are databases for?*
+**What are databases for?**
 Storing and organizing data.
 
-*What is a one-to-many relationship?*
+**What is a one-to-many relationship?**
 One-to-many is when a string is repeated over and over. If it appears to often then
 their is more possibility of errors when it is typed.
 
-*What is a primary key? What is a foreign key? How can you determine which is which?*
+**What is a primary key? What is a foreign key? How can you determine which is which?**
 a a foreign key comes about when you link the primary key to another key. you can tell which is which because the primary key is unique and is not longer then 16 columns. It is also used to index.
 
-*How can you select information out of a SQL database? What are some general guidelines for*
-*that?*
+**How can you select information out of a SQL database? What are some general guidelines for**
+**that?**
 ```sqlite3
 SELECT column(s)
 FROM table;
