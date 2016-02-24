@@ -119,14 +119,14 @@ console.log("WIN!");
 
 
 // What concepts did you solidify in working on this challenge?
-// -
+// -solidify is not my favorite word right now. Lets go with this was a fun REVIEW. Its a review
 //
 // What was the most difficult part of this challenge?
-// -
+// -Getting syntax down.
 //
 // Did you solve the problem in a new way this time?
-// -
+// - i added win.
 //
-// Was your pseudocode different from the Ruby version? What was the same and what was different?
-// -
+// Was your pseudo code different from the Ruby version? What was the same and what was different?
+// -yes and no the words were different but the process was the same.
 //
