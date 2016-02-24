@@ -35,3 +35,14 @@ elements[elm].style.fontSize = "2em";
 // Release 6:
 var tmpl = document.getElementById('hidden');
 document.body.appendChild(tmpl.content.cloneNode(true));
+
+
+//Reflection:
+// What did you learn about the DOM?
+//- I had worked with the DOM  in a past exercise so i didn't learn anything new in this exercise.
+// What are some useful methods to use to manipulate the DOM?
+//document.getElementById()
+//document.getElementsByTag()
+//document.getElementsByClassName()
+//.style
+//on and on and on
